@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 // API setup for Express backend integration
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5002/api';
-const PYTHON_API_URL = import.meta.env.VITE_PYTHON_API_URL || 'http://localhost:8001';
+const API_URL = import.meta.env.VITE_API_URL;
+const PYTHON_API_URL = import.meta.env.VITE_PYTHON_API_URL;
 
 const apiClient = axios.create({
   baseURL: API_URL,
