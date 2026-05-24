@@ -1,0 +1,730 @@
+{
+  "EN": {
+    "nav": {
+      "removeVideoBg": "Remove Video Object",
+      "features": "Features",
+      "pricing": "Pricing",
+      "login": "Login",
+      "signup": "Sign Up",
+      "tools": "Tools",
+      "solutions": "Solutions",
+      "coreCaps": "Core Capabilities",
+      "videoTools": "Video Tools",
+      "automation": "Automation",
+      "upscaling": "4K Upscaling",
+      "greenScreen": "Green Screen",
+      "batch": "Batch Processing",
+      "apiAccess": "API Access"
+    },
+    "hero": {
+      "title1": "Remove Image",
+      "title2": "Background",
+      "subtitle": "100% automatically for Free",
+      "noVideo": "No image?",
+      "trySample": "Try one of these:",
+      "selectBtn": "Select an image to upload",
+      "dragDrop": "or drag & drop your file here"
+    },
+    "videoObjectRemover": {
+      "title1": "Remove Video",
+      "title2": "Object",
+      "subtitle": "100% automatically for Free",
+      "noVideo": "No video?",
+      "trySample": "Try one of these:",
+      "selectBtn": "Select a video to upload",
+      "dragDrop": "or drag & drop your file here"
+    },
+    "home": {
+      "oneAiTitle": "One AI Solution to Transform Your Biz",
+      "oneAiDesc": "Whether you're in marketing, photography, development, or ecommerce, our scalable platform transforms your images fast—streamlining processes and boosting business results.",
+      "remove100Title": "Remove backgrounds 100% Automatically in just seconds",
+      "remove100Desc": "Our online background remover instantly detects the subject from any photo and gives you a smooth & clear cutout. Now you can save an incredible amount of time as our AI is capable of handling hair, fur or any complex edges in just a few seconds.",
+      "features": {
+        "bg": {
+          "title": "AI Background",
+          "desc1": "Professional studios cost $$$. Our AI? Generates realistic, jaw-dropping backgrounds in 5 seconds flat—no fancy gear or skills needed.",
+          "desc2": "\"Saved me 6 hours on a last-minute client project!\" — Sarah, Amazon Seller. Stop wasting time staging photos. Just upload, click, boom."
+        },
+        "enhance": {
+          "title": "AI Enhance",
+          "desc1": "Blurry selfies? Dull colors? Our AI fixes it all with one click. No more begging your design with \"Photoshop skills\". 90% of users say their pics look \"like they hired a pro\".",
+          "desc2": "Heard of FOMO? Your competitors already use this. Why settle for \"meh\" when you can wow? Free trial."
+        },
+        "shadow": {
+          "title": "AI Shadow",
+          "desc1": "Realistic shadows make products POP off the screen. No more DIY hacks with lamps or cardboard.",
+          "desc2": "\"My Shopify conversions jumped 40% after using this!\" — Jake, Dropshipper. Our AI slaps on natural-looking shadows in seconds."
+        },
+        "upscale": {
+          "title": "AI Upscale",
+          "desc1": "Stop trashing nearly perfect shots! Our AI sharpens, brightens, and upscales any image to stunning print-ready HD in just 5 seconds.",
+          "desc2": ""
+        },
+        "exploreBtn": "Explore all features"
+      },
+      "tabs": {
+        "people": "People",
+        "product": "Product",
+        "car": "Car",
+        "animals": "Animals",
+        "graphics": "Graphics",
+        "realEstate": "Real Estate"
+      },
+      "solutions": {
+        "individuals": "Individuals",
+        "photographers": "Photographers",
+        "marketers": "Marketers",
+        "developers": "Developers",
+        "ecommerce": "Ecommerce",
+        "enterprise": "Enterprise",
+        "news": "For News & Media",
+        "dealers": "For Car Dealers",
+        "onPremise": "For On Premise"
+      }
+    },
+    "pricing": {
+      "title": "Developer API Pricing.",
+      "subtitle": "Scale your background removal workflows seamlessly with our powerful developer API packages.",
+      "commonQuestions": "Common Questions",
+      "month": "/month",
+      "starter": {
+        "name": "API Starter",
+        "price": "0",
+        "desc": "Perfect for testing and integrating background removal into your app.",
+        "features": [
+          "100 API credits per month",
+          "Standard rate limits",
+          "Community support"
+        ]
+      },
+      "pro": {
+        "name": "API Pro",
+        "price": "49",
+        "desc": "For growing applications requiring high performance and volume.",
+        "features": [
+          "5,000 API credits per month",
+          "Higher rate limits",
+          "Email support"
+        ]
+      },
+      "enterprise": {
+        "name": "API Enterprise",
+        "price": "Custom",
+        "desc": "For high-volume platforms and large-scale media deployments.",
+        "features": [
+          "Unlimited credits",
+          "Dedicated GPU clusters",
+          "24/7 VIP support"
+        ]
+      },
+      "getStarted": "Get Started",
+      "contactSales": "Contact Sales",
+      "enterpriseBenefits": {
+        "title": "Why Enterprise?",
+        "b1": "Dedicated GPU Cluster",
+        "b2": "Custom AI Model Fine-tuning",
+        "b3": "On-Premise Deployment Options",
+        "b4": "24/7 Priority VIP Support"
+      }
+    },
+    "home_workflow": {
+      "title": "How it Works",
+      "s1_title": "Upload Image",
+      "s1_desc": "Drag and drop any image file. We support JPG, PNG, and WebP.",
+      "s2_title": "AI Magic",
+      "s2_desc": "Our neural networks analyze the image to isolate subjects with pixel-perfect precision.",
+      "s3_title": "Download",
+      "s3_desc": "Get your processed image in high quality with a transparent or custom background."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know.",
+      "q1": "How does AI processing work?",
+      "a1": "Our advanced machine learning models analyze your images pixel by pixel to accurately distinguish the foreground subject from the background. It then seamlessly removes the background while preserving fine details like hair and transparent edges.",
+      "q2": "Is there an API?",
+      "a2": "Yes, we offer a robust REST API that allows you to integrate our background removal capabilities directly into your own applications, websites, or workflows. Check out our Docs for more information.",
+      "q3": "What formats are supported?",
+      "a3": "We support all standard image formats including JPG, PNG, WEBP, and TIFF. Processed images are returned as high-quality PNGs with transparent backgrounds.",
+      "q4": "Is batch processing available?",
+      "a4": "Absolutely! Our Pro and Enterprise plans include batch processing tools that allow you to upload and process hundreds of images simultaneously, saving you hours of manual work.",
+      "q5": "Is my data secure?",
+      "a5": "Security and privacy are our top priorities. All uploaded files are securely processed and automatically deleted from our servers within 60 minutes after processing. We never use your images to train our models without explicit consent."
+    },
+    "auth": {
+      "login": "Log In",
+      "signup": "Create account",
+      "forgot": "Forgot password?",
+      "email": "Email",
+      "password": "Password",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "confirm": "Confirm"
+    },
+    "footer": {
+      "features": "Features",
+      "solutions": "Solutions",
+      "tools": "Tools",
+      "company": "Company",
+      "followUs": "Follow us",
+      "desc": "Clearix AI is an AI powered tool that uses advanced computer vision algorithms to process images online and replace background automatically with the best detailing in just a few seconds.",
+      "copyright": "Copyright ©2019-2025 Clearix AI TECHNOLOGY - All rights reserved.",
+      "disclaimer": "All trademarks, service marks, trade names, product names, logos and trade dress appearing on our website are the property of their respective owners.",
+      "links": {
+        "upscale": "AI Upscale",
+        "shadow": "AI Shadow",
+        "deoldify": "AI De-oldify",
+        "enhance": "AI Enhance",
+        "sky": "AI Sky Replacement",
+        "food": "AI Food Cataloging",
+        "grocery": "AI Grocery Cataloging",
+        "furniture": "AI Furniture Cataloging",
+        "individuals": "For Individuals",
+        "photographers": "For Photographers",
+        "advertising": "For Advertising",
+        "developers": "For Developers",
+        "carDealers": "For Car Dealers",
+        "news": "For News & Media",
+        "ecommerce": "For Ecommerce",
+        "enterprise": "For Enterprise",
+        "apiDocs": "API Documentation",
+        "videoRemover": "Video BG Remover",
+        "videoEnhancer": "AI Video Enhancer",
+        "videoUpscaler": "4K Video Upscaler",
+        "batchVideo": "Batch Video Processing",
+        "devApi": "Developer API",
+        "design": "Design Maker",
+        "about": "About Us",
+        "blog": "Blog",
+        "terms": "Terms of service",
+        "conditions": "General Terms and Conditions",
+        "privacy": "Privacy Policy",
+        "contact": "Contact Us",
+        "help": "Help & FAQ",
+        "refund": "Refund Policy",
+        "status": "Platform Status"
+      }
+    },
+    "legal": {
+      "terms": {
+        "title": "Terms of Service",
+        "lastUpdated": "Last updated: May 9, 2026",
+        "s1_title": "1. Agreement to Terms",
+        "s1_text": "By accessing our website at clearix.ai, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws.",
+        "s2_title": "2. Use License",
+        "s2_text": "Permission is granted to temporarily use the Clearix AI services for personal or commercial image and video processing. This is the grant of a license, not a transfer of title, and under this license you may not:",
+        "s2_list": [
+          "Attempt to decompile or reverse engineer any software contained on the website;",
+          "Remove any copyright or other proprietary notations from the materials;",
+          "Transfer the materials to another person or \"mirror\" the materials on any other server;",
+          "Use the services for any illegal or unauthorized purpose;",
+          "Violate any laws in your jurisdiction (including but not limited to copyright laws)."
+        ],
+        "s3_title": "3. Subscriptions and Payments",
+        "s3_text": "Some parts of the Service are billed on a subscription basis (\"Subscription(s)\"). You will be billed in advance on a recurring and periodic basis (\"Billing Cycle\"). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.",
+        "s4_title": "4. Refunds",
+        "s4_text": "Except when required by law, paid Subscription fees are non-refundable. We may, however, consider certain refund requests for Subscriptions on a case-by-case basis and granted at our sole discretion.",
+        "s5_title": "5. Disclaimer",
+        "s5_text": "The materials on Clearix AI's website are provided on an 'as is' basis. Clearix AI makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.",
+        "s6_title": "6. Limitations of Liability",
+        "s6_text": "In no event shall Clearix AI or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Clearix AI's website.",
+        "s7_title": "7. Termination",
+        "s7_text": "We may terminate or suspend your account and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.",
+        "s8_title": "8. Governing Law",
+        "s8_text": "These terms and conditions are governed by and construed in accordance with the laws of the jurisdiction in which Clearix AI operates and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location."
+      },
+      "privacy": {
+        "title": "Privacy Policy",
+        "lastUpdated": "Last updated: May 9, 2026",
+        "s1_title": "1. Introduction",
+        "s1_text": "Welcome to Clearix AI. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you visit our website and tell you about your privacy rights and how the law protects you.",
+        "s2_title": "2. The Data We Collect",
+        "s2_text": "We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:",
+        "s2_list": [
+          "Identity Data: includes first name, last name, username or similar identifier.",
+          "Contact Data: includes email address and telephone numbers.",
+          "Technical Data: includes internet protocol (IP) address, your login data, browser type and version, and operating system.",
+          "Usage Data: includes information about how you use our website, products and services.",
+          "Marketing and Communications Data: includes your preferences in receiving marketing from us and your communication preferences."
+        ],
+        "s3_title": "3. Cookies and Tracking",
+        "s3_text": "We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. Cookies are files with small amount of data which may include an anonymous unique identifier. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.",
+        "s4_title": "4. Third-Party Services",
+        "s4_text": "We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.",
+        "s5_title": "5. Data Retention",
+        "s5_text": "We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.",
+        "s6_title": "6. Data Security",
+        "s6_text": "We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. For example, images and videos uploaded for background removal are processed entirely in memory and permanently deleted immediately after processing.",
+        "s7_title": "7. International Transfers",
+        "s7_text": "Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those from your jurisdiction.",
+        "s8_title": "8. Your Legal Rights",
+        "s8_text": "Under certain circumstances, you have rights under data protection laws in relation to your personal data, including the right to request access, correction, erasure, or restriction of your personal data.",
+        "s9_title": "9. Contact Us",
+        "s9_text": "If you have any questions about this privacy policy or our privacy practices, please contact us at: privacy@clearix.ai"
+      }
+    },
+    "about": {
+      "title": "About Clearix AI",
+      "subtitle": "Leading the frontier of AI video processing.",
+      "missionTitle": "Our Mission",
+      "missionText": "At Clearix AI, we're on a mission to democratize professional-grade video editing. We believe that high-quality visual content shouldn't require expensive studios or hours of manual work. Our AI-driven platform empowers creators, businesses, and developers to transform their visual assets instantly. We are committed to pushing the boundaries of what's possible with neural networks, ensuring that every frame you process is handled with the utmost care and precision.",
+      "journeyTitle": "Our Journey",
+      "journeyText": "Founded in 2019, Clearix AI started as a small project by a group of computer vision enthusiasts. Today, we serve millions of users globally, ranging from individual content creators to Fortune 500 enterprises. Our platform has evolved from a simple background remover to a comprehensive AI suite that handles complex video tasks in real-time.",
+      "whyTitle": "Why Clearix AI?",
+      "why1_title": "Pixel-Perfect Accuracy",
+      "why1_text": "Our neural networks are trained on millions of diverse images to handle complex edges like hair, fur, and motion blur with unmatched precision.",
+      "why2_title": "Lightning Fast",
+      "why2_text": "Time is money. Our optimized infrastructure ensures that most images and videos are processed in under 5 seconds, even at 4K resolution.",
+      "why3_title": "Privacy First",
+      "why3_text": "We don't just say we care about privacy—we build it into our core architecture. Files are processed in memory and wiped immediately after download.",
+      "why4_title": "Enterprise Ready",
+      "why4_text": "Our API is designed for scale. Whether you need to process one image or one million, our system scales dynamically to meet your demands."
+    },
+    "blog": {
+      "title": "Latest from the Blog",
+      "subtitle": "Insights, tutorials, and updates from the world of AI.",
+      "readMore": "Read full article",
+      "p1_title": "The Future of AI Video Background Removal",
+      "p1_desc": "How new neural network architectures are making it possible to process 4K video in real-time without compromising on edge quality or detail.",
+      "p2_title": "Boosting Ecommerce Conversion Rates",
+      "p2_desc": "Why clean product backgrounds are the #1 factor in customer trust and sales growth. Learn how to optimize your catalog for maximum impact.",
+      "p3_title": "API Best Practices for 2026",
+      "p3_desc": "A guide to integrating AI processing into your enterprise workflow seamlessly while maintaining high performance and security.",
+      "p4_title": "The Rise of Short-Form Video AI",
+      "p4_desc": "How AI is changing the landscape of TikTok and Reels production, making viral content creation easier than ever before."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Have questions? We're here to help.",
+      "form_name": "Full Name",
+      "form_email": "Email Address",
+      "form_subject": "Subject",
+      "form_message": "How can we help?",
+      "form_submit": "Send Message",
+      "info_title": "Get in Touch",
+      "info_email": "support@clearix.ai",
+      "info_address": "Gangnam-gu, Seoul, Republic of Korea",
+      "info_hours": "Mon - Fri, 9am - 6pm KST",
+      "sales_title": "Talk to Sales",
+      "sales_text": "Interested in enterprise solutions or custom AI models? Our sales team is ready to build a plan that fits your high-volume needs."
+    },
+    "helpPage": {
+      "title": "Help Center",
+      "subtitle": "Find answers to common questions and technical guides.",
+      "search": "Search for help...",
+      "categories": {
+        "account": "Account & Billing",
+        "account_desc": "Manage your subscription, invoices, and payment methods.",
+        "api": "API & Technical",
+        "api_desc": "Documentation, SDKs, and technical integration guides.",
+        "processing": "Image & Video Processing",
+        "processing_desc": "Learn about supported formats, resolution limits, and best practices.",
+        "security": "Security & Privacy",
+        "security_desc": "How we handle your data and our compliance standards."
+      }
+    },
+    "refund": {
+      "title": "Refund Policy",
+      "lastUpdated": "Last updated: May 11, 2026",
+      "s1_title": "1. 30-Day Satisfaction Guarantee",
+      "s1_text": "We stand by the quality of our AI. If you are not satisfied with your first purchase, we offer a full refund within 30 days of the transaction, provided you have used fewer than 5 credits.",
+      "s2_title": "2. Subscription Cancellations",
+      "s2_text": "You can cancel your subscription at any time through your dashboard. Upon cancellation, you will retain access to your plan's features until the end of the current billing cycle.",
+      "s3_title": "3. Exceptions",
+      "s3_text": "Refunds are not typically provided for accounts that have violated our Terms of Service or for users who have consumed a significant portion of their monthly credits.",
+      "s4_title": "4. How to Request",
+      "s4_text": "To request a refund, please contact our support team at support@clearix.ai with your account email and transaction ID."
+    },
+    "status": {
+      "title": "Platform Status",
+      "subtitle": "Real-time updates on our systems and services.",
+      "operational": "Operational",
+      "degraded": "Degraded Performance",
+      "down": "Service Outage",
+      "systems": {
+        "api": "API & Core Processing",
+        "web": "Web Dashboard",
+        "gpu": "GPU Clusters (Rendering)",
+        "cdn": "Content Delivery Network"
+      },
+      "incidents": "Recent Incidents",
+      "noIncidents": "No incidents reported in the last 30 days."
+    },
+    "generalTerms": {
+      "title": "General Terms and Conditions",
+      "lastUpdated": "Last updated: May 11, 2026",
+      "intro": "These General Terms and Conditions apply to all users and visitors of the Clearix AI platform.",
+      "s1_title": "1. User Responsibilities",
+      "s1_text": "Users are responsible for ensuring they have the legal right to process the images and videos they upload. Use of the platform for illegal, defamatory, or harmful content is strictly prohibited.",
+      "s2_title": "2. Intellectual Property",
+      "s2_text": "You retain all rights to your original content. Clearix AI claims no ownership over the files you process. We only retain temporary copies as necessary for processing.",
+      "s3_title": "3. Platform Availability",
+      "s3_text": "While we strive for 99.9% uptime, we do not guarantee uninterrupted service. Maintenance and updates may occasionally cause brief downtime.",
+      "s4_title": "4. Changes to Terms",
+      "s4_text": "We reserve the right to modify these terms at any time. Significant changes will be notified via email or platform announcement."
+    }
+  },
+  "KO": {
+    "nav": {
+      "removeVideoBg": "비디오 객체 제거",
+      "features": "기능",
+      "pricing": "가격",
+      "login": "로그인",
+      "signup": "가입하기",
+      "tools": "도구",
+      "solutions": "솔루션",
+      "coreCaps": "핵심 기능",
+      "videoTools": "비디오 도구",
+      "automation": "자동화",
+      "upscaling": "4K 업스케일링",
+      "greenScreen": "그린 스크린",
+      "batch": "배치 프로세싱",
+      "apiAccess": "API 액세스"
+    },
+    "hero": {
+      "title1": "이미지 배경",
+      "title2": "제거",
+      "subtitle": "100% 자동 및 무료",
+      "noVideo": "이미지가 없으신가요?",
+      "trySample": "다음 중 하나를 시도해보세요:",
+      "selectBtn": "업로드할 이미지 선택",
+      "dragDrop": "또는 파일을 여기로 드래그하세요"
+    },
+    "videoObjectRemover": {
+      "title1": "비디오 객체",
+      "title2": "제거",
+      "subtitle": "100% 자동 및 무료",
+      "noVideo": "동영상이 없으신가요?",
+      "trySample": "다음 중 하나를 시도해보세요:",
+      "selectBtn": "업로드할 동영상 선택",
+      "dragDrop": "또는 파일을 여기로 드래그하세요"
+    },
+    "home": {
+      "oneAiTitle": "비즈니스 혁신을 위한 하나의 AI 솔루션",
+      "oneAiDesc": "마케팅, 사진, 개발, 이커머스 등 어떤 분야에서든 당사의 확장 가능한 플랫폼은 이미지를 빠르게 변환하여 프로세스를 간소화하고 비즈니스 결과를 향상시킵니다.",
+      "remove100Title": "몇 초 만에 배경 100% 자동 제거",
+      "remove100Desc": "온라인 배경 제거기는 어떤 사진에서든 피사체를 즉시 감지하여 매끄럽고 선명한 컷아웃을 제공합니다. 이제 당사의 AI가 몇 초 만에 머리카락, 털 또는 복잡한 가장자리를 처리할 수 있으므로 엄청난 시간을 절약할 수 있습니다.",
+      "features": {
+        "bg": {
+          "title": "AI 배경",
+          "desc1": "전문 스튜디오 비용은 수백만 원입니다. 당사의 AI는? 화려한 장비나 기술 없이도 5초 만에 현실적이고 놀라운 배경을 생성합니다.",
+          "desc2": "\"마지막 순간의 클라이언트 프로젝트에서 6시간을 아꼈습니다!\" — Sarah, 아마존 판매자. 사진 촬영을 위해 시간을 낭비하지 마세요. 업로드하고 클릭하면 끝입니다."
+        },
+        "enhance": {
+          "title": "AI 향상",
+          "desc1": "흐릿한 셀카? 칙칙한 색상? 당사의 AI는 단 한 번의 클릭으로 모든 것을 해결합니다. 90%의 사용자가 사진이 \"전문가를 고용한 것 같다\"고 말합니다.",
+          "desc2": "경쟁사들은 이미 이것을 사용하고 있습니다. 왜 평범함에 안주하시나요? 무료 체험 가능."
+        },
+        "shadow": {
+          "title": "AI 그림자",
+          "desc1": "현실적인 그림자는 제품을 화면에서 돋보이게 만듭니다. 램프나 카드보드를 사용한 번거로운 작업은 이제 그만하세요.",
+          "desc2": "\"이것을 사용한 후 쇼피파이 전환율이 40% 증가했습니다!\" — Jake, 드롭쉬퍼. 당사의 AI는 몇 초 만에 자연스러운 그림자를 적용합니다."
+        },
+        "upscale": {
+          "title": "AI 업스케일",
+          "desc1": "거의 완벽한 샷을 버리지 마세요! 당사의 AI는 단 5초 만에 모든 이미지를 선명하고 밝게 만들어 인쇄 가능한 HD로 업스케일합니다.",
+          "desc2": ""
+        },
+        "exploreBtn": "모든 기능 살펴보기"
+      },
+      "tabs": {
+        "people": "인물",
+        "product": "제품",
+        "car": "자동차",
+        "animals": "동물",
+        "graphics": "그래픽",
+        "realEstate": "부동산"
+      },
+      "solutions": {
+        "individuals": "개인",
+        "photographers": "사진작가",
+        "marketers": "마케터",
+        "developers": "개발자",
+        "ecommerce": "이커머스",
+        "enterprise": "기업",
+        "news": "뉴스 및 미디어용",
+        "dealers": "자동차 딜러용",
+        "onPremise": "온프레미스용"
+      }
+    },
+    "pricing": {
+      "title": "개발자용 API 요금제.",
+      "subtitle": "당사의 강력한 개발자용 API 패키지를 통해 배경 제거 워크플로우를 완벽하게 확장하세요.",
+      "commonQuestions": "자주 묻는 질문",
+      "month": "/월",
+      "starter": {
+        "name": "API 스타터",
+        "price": "0",
+        "desc": "앱에 배경 제거 기능을 연동하고 테스트하는 데 적합합니다.",
+        "features": [
+          "월 100회 API 크레딧",
+          "표준 속도 제한",
+          "커뮤니티 지원"
+        ]
+      },
+      "pro": {
+        "name": "API 프로",
+        "price": "49",
+        "desc": "더 높은 성능과 용량을 요구하는 성장하는 애플리케이션에 적합합니다.",
+        "features": [
+          "월 5,000회 API 크레딧",
+          "높은 속도 제한",
+          "이메일 지원"
+        ]
+      },
+      "enterprise": {
+        "name": "API 엔터프라이즈",
+        "price": "커스텀",
+        "desc": "대량 처리가 필요한 플랫폼 및 대규모 미디어 배포에 적합합니다.",
+        "features": [
+          "무제한 크레딧",
+          "전용 GPU 클러스터",
+          "24/7 VIP 지원"
+        ]
+      },
+      "getStarted": "시작하기",
+      "contactSales": "영업팀에 문의",
+      "enterpriseBenefits": {
+        "title": "왜 엔터프라이즈인가요?",
+        "b1": "전용 GPU 클러스터",
+        "b2": "맞춤형 AI 모델 미세 조정",
+        "b3": "온프레미스 배포 옵션",
+        "b4": "24/7 우선 VIP 지원"
+      }
+    },
+    "home_workflow": {
+      "title": "작동 방식",
+      "s1_title": "이미지 업로드",
+      "s1_desc": "모든 이미지 파일을 드래그 앤 드롭하세요. JPG, PNG, WebP를 지원합니다.",
+      "s2_title": "AI 마법",
+      "s2_desc": "당사의 신경망은 이미지를 분석하여 피사체를 픽셀 단위의 정밀도로 분리합니다.",
+      "s3_title": "다운로드",
+      "s3_desc": "투명 배경 또는 맞춤형 배경이 포함된 고품질 처리 이미지를 받으세요."
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "subtitle": "알아야 할 모든 것.",
+      "q1": "AI 처리는 어떻게 작동하나요?",
+      "a1": "당사의 고급 머신 러닝 모델은 이미지를 픽셀 단위로 분석하여 전경의 피사체와 배경을 정확하게 구분합니다. 그런 다음 머리카락이나 투명한 가장자리와 같은 세부 사항을 보존하면서 배경을 원활하게 제거합니다.",
+      "q2": "API가 있나요?",
+      "a2": "네, 당사의 배경 제거 기능을 귀하의 애플리케이션, 웹사이트 또는 워크플로우에 직접 통합할 수 있는 강력한 REST API를 제공합니다. 자세한 내용은 문서를 확인하세요.",
+      "q3": "어떤 형식이 지원되나요?",
+      "a3": "JPG, PNG, WEBP, TIFF를 포함한 모든 표준 이미지 형식을 지원합니다. 처리된 이미지는 투명한 배경을 가진 고품질 PNG로 반환됩니다.",
+      "q4": "배치 프로세싱이 가능한가요?",
+      "a4": "물론입니다! 프로 및 엔터프라이즈 요금제에는 수백 개의 이미지를 동시에 업로드하고 처리할 수 있는 배치 프로세싱 도구가 포함되어 있어 수작업 시간을 절약할 수 있습니다.",
+      "q5": "내 데이터는 안전한가요?",
+      "a5": "보안과 개인 정보 보호는 당사의 최우선 과제입니다. 업로드된 모든 파일은 안전하게 처리되며 처리 후 60분 이내에 서버에서 자동으로 삭제됩니다. 당사는 명시적인 동의 없이 귀하의 이미지를 모델 학습에 사용하지 않습니다."
+    },
+    "auth": {
+      "login": "로그인",
+      "signup": "계정 만들기",
+      "forgot": "비밀번호를 잊으셨나요?",
+      "email": "이메일",
+      "password": "비밀번호",
+      "firstName": "이름",
+      "lastName": "성",
+      "confirm": "확인"
+    },
+    "footer": {
+      "features": "기능",
+      "solutions": "솔루션",
+      "tools": "도구",
+      "company": "회사",
+      "followUs": "팔로우하기",
+      "desc": "Clearix AI는 고급 컴퓨터 비전 알고리즘을 사용하여 온라인에서 이미지를 처리하고 단 몇 초 만에 최고의 디테일로 배경을 자동으로 교체하는 AI 기반 도구입니다.",
+      "copyright": "Copyright ©2019-2025 Clearix AI TECHNOLOGY - All rights reserved.",
+      "disclaimer": "당사 웹사이트에 나타나는 모든 상표, 서비스 마크, 상호, 제품 이름, 로고 및 트레이드 드레스는 해당 소유자의 자산입니다.",
+      "links": {
+        "upscale": "AI 업스케일",
+        "shadow": "AI 그림자",
+        "deoldify": "AI 복원",
+        "enhance": "AI 향상",
+        "sky": "AI 하늘 교체",
+        "food": "AI 음식 카탈로그",
+        "grocery": "AI 식료품 카탈로그",
+        "furniture": "AI 가구 카탈로그",
+        "individuals": "개인용",
+        "photographers": "사진작가용",
+        "advertising": "광고용",
+        "developers": "개발자용",
+        "carDealers": "자동차 딜러용",
+        "news": "뉴스 및 미디어용",
+        "ecommerce": "이커머스용",
+        "enterprise": "기업용",
+        "apiDocs": "API 문서",
+        "videoRemover": "동영상 배경 제거",
+        "videoEnhancer": "AI 동영상 향상",
+        "videoUpscaler": "4K 동영상 업스케일러",
+        "batchVideo": "배치 동영상 처리",
+        "devApi": "개발자 API",
+        "design": "디자인 메이커",
+        "about": "회사 소개",
+        "blog": "블로그",
+        "terms": "서비스 약관",
+        "conditions": "일반 이용 약관",
+        "privacy": "개인정보 처리방침",
+        "contact": "문의하기",
+        "help": "도움말 및 FAQ",
+        "refund": "환불 정책",
+        "status": "플랫폼 상태"
+      }
+    },
+    "legal": {
+      "terms": {
+        "title": "서비스 약관",
+        "lastUpdated": "최종 업데이트: 2026년 5월 9일",
+        "s1_title": "1. 약관 동의",
+        "s1_text": "clearix.ai 웹사이트에 접속함으로써 귀하는 본 서비스 약관, 모든 해당 법률 및 규정을 준수하기로 동의하며, 해당 지역 법률을 준수할 책임이 귀하에게 있음에 동의합니다.",
+        "s2_title": "2. 사용 라이선스",
+        "s2_text": "개인적 또는 상업적 이미지 및 비디오 처리를 위해 Clearix AI 서비스를 일시적으로 사용할 수 있는 권한이 부여됩니다. 이는 라이선스의 부여이지 소유권의 이전이 아니며, 본 라이선스에 따라 귀하는 다음을 수행할 수 없습니다:",
+        "s2_list": [
+          "웹사이트에 포함된 소프트웨어를 역컴파일하거나 역설계하려는 시도;",
+          "자료에서 저작권 또는 기타 소유권 표기 제거;",
+          "자료를 다른 사람에게 전달하거나 다른 서버에 자료를 \"미러링\"하는 행위;",
+          "불법적 또는 무단 목적으로 서비스 사용;",
+          "귀하의 관할권 내 법률 위반(저작권법 포함하되 이에 국한되지 않음)."
+        ],
+        "s3_title": "3. 구독 및 결제",
+        "s3_text": "서비스의 일부는 구독 기준으로 청구됩니다(\"구독\"). 귀하는 반복적이고 정기적인 기준(\"결제 주기\")으로 미리 청구됩니다. 결제 주기는 구독을 구매할 때 선택한 구독 플랜의 유형에 따라 매월 또는 매년 단위로 설정됩니다.",
+        "s4_title": "4. 환불",
+        "s4_text": "법에서 요구하는 경우를 제외하고, 지불된 구독료는 환불되지 않습니다. 그러나 당사는 사례별로 구독에 대한 특정 환불 요청을 고려할 수 있으며 당사의 독자적인 재량에 따라 승인될 수 있습니다.",
+        "s5_title": "5. 면책 조항",
+        "s5_text": "Clearix AI 웹사이트의 자료는 '있는 그대로' 제공됩니다. Clearix AI는 명시적이든 묵시적이든 어떠한 보증도 하지 않으며, 이에 따라 상품성, 특정 목적에의 적합성, 지적 재산권 비침해 또는 기타 권리 위반에 대한 묵시적 보증 또는 조건을 포함하되 이에 국한되지 않는 다른 모든 보증을 부인하고 부정합니다.",
+        "s6_title": "6. 책임의 한계",
+        "s6_text": "어떠한 경우에도 Clearix AI 또는 그 공급업체는 Clearix AI 웹사이트의 자료 사용 또는 사용 불능으로 인해 발생하는 손해(데이터 또는 이익의 손실, 또는 비즈니스 중단으로 인한 손해를 포함하되 이에 국한되지 않음)에 대해 책임을 지지 않습니다.",
+        "s7_title": "7. 종료",
+        "s7_text": "당사는 독자적인 재량에 따라 약관 위반을 포함하되 이에 국한되지 않는 어떠한 이유로든 사전 통지나 책임 없이 즉시 귀하의 계정을 종료 또는 일시 중지하고 서비스에 대한 액세스를 차단할 수 있습니다.",
+        "s8_title": "8. 준거법",
+        "s8_text": "본 약관은 Clearix AI가 운영되는 관할권의 법률에 따라 규율되고 해석되며 귀하는 해당 주 또는 위치에 있는 법원의 전담 관할권에 취소 불가능하게 복종합니다."
+      },
+      "privacy": {
+        "title": "개인정보 처리방침",
+        "lastUpdated": "최종 업데이트: 2026년 5월 9일",
+        "s1_title": "1. 개요",
+        "s1_text": "Clearix AI에 오신 것을 환영합니다. 당사는 귀하의 개인 정보를 존중하며 개인 데이터를 보호하기 위해 최선을 다하고 있습니다. 본 개인정보 처리방침은 귀하가 당사 웹사이트를 방문할 때 당사가 귀하의 개인 데이터를 어떻게 관리하는지 알려드리고 귀하의 개인 정보 보호 권리와 법이 귀하를 어떻게 보호하는지 알려드립니다.",
+        "s2_title": "2. 수집하는 데이터",
+        "s2_text": "당사는 귀하에 대한 다음과 같은 다양한 종류의 개인 데이터를 수집, 사용, 저장 및 이전할 수 있습니다.",
+        "s2_list": [
+          "신원 데이터: 이름, 성, 사용자 이름 또는 유사한 식별자가 포함됩니다.",
+          "연락처 데이터: 이메일 주소 및 전화번호가 포함됩니다.",
+          "기술 데이터: 인터넷 프로토콜(IP) 주소, 로그인 데이터, 브라우저 유형 및 버전, 운영 체제가 포함됩니다.",
+          "사용 데이터: 귀하가 당사 웹사이트, 제품 및 서비스를 어떻게 사용하는지에 대한 정보가 포함됩니다.",
+          "마케팅 및 커뮤니케이션 데이터: 당사로부터 마케팅을 받는 것에 대한 귀하의 선호도 및 커뮤니케이션 선호도가 포함됩니다."
+        ],
+        "s3_title": "3. 쿠키 및 추적",
+        "s3_text": "당사는 쿠키 및 유사한 추적 기술을 사용하여 서비스 활동을 추적하고 특정 정보를 보유합니다. 쿠키는 익명의 고유 식별자를 포함할 수 있는 소량의 데이터가 포함된 파일입니다. 브라우저에서 모든 쿠키를 거부하거나 쿠키가 전송될 때 표시하도록 설정할 수 있습니다.",
+        "s4_title": "4. 제3자 서비스",
+        "s4_text": "당사는 당사의 서비스를 촉진하거나(\"서비스 제공업체\"), 당사를 대신하여 서비스를 제공하거나, 서비스 관련 서비스를 수행하거나, 당사의 서비스가 어떻게 사용되는지 분석하는 데 도움을 주기 위해 제3자 회사 및 개인을 고용할 수 있습니다. 이러한 제3자는 당사를 대신하여 이러한 작업을 수행하기 위해서만 귀하의 개인 데이터에 액세스할 수 있으며 이를 다른 목적으로 공개하거나 사용하지 않을 의무가 있습니다.",
+        "s5_title": "5. 데이터 보관",
+        "s5_text": "당사는 법적, 회계 또는 보고 요구 사항을 충족하는 목적을 포함하여 수집한 목적을 달성하는 데 필요한 기간 동안만 귀하의 개인 데이터를 보관합니다.",
+        "s6_title": "6. 데이터 보안",
+        "s6_text": "당사는 귀하의 개인 데이터가 실수로 분실되거나, 무단으로 사용 또는 액세스되거나, 변경 또는 공개되는 것을 방지하기 위해 적절한 보안 조치를 마련했습니다. 예를 들어, 배경 제거를 위해 업로드된 이미지와 비디오는 전적으로 메모리에서 처리되며 처리 직후 영구적으로 삭제됩니다.",
+        "s7_title": "7. 국제 이전",
+        "s7_text": "귀하의 개인 데이터를 포함한 정보는 귀하의 주, 도, 국가 또는 기타 정부 관할 구역 외부의 컴퓨터로 이전되어 유지될 수 있으며, 해당 구역의 데이터 보호법은 귀하의 관할 구역과 다를 수 있습니다.",
+        "s8_title": "8. 귀하의 법적 권리",
+        "s8_text": "특정 상황에서 귀하는 개인 데이터와 관련하여 개인 데이터에 대한 액세스, 수정, 삭제 또는 제한을 요청할 권리를 포함하여 데이터 보호법에 따른 권리를 가집니다.",
+        "s9_title": "9. 문의하기",
+        "s9_text": "본 개인정보 처리방침 또는 당사의 개인 정보 보호 관행에 대해 질문이 있는 경우 privacy@clearix.ai으로 문의하십시오."
+      }
+    },
+    "about": {
+      "title": "Clearix AI 소개",
+      "subtitle": "AI 비디오 처리의 최전선을 선도합니다.",
+      "missionTitle": "우리의 미션",
+      "missionText": "Clearix AI의 미션은 전문가 수준의 비디오 편집을 대중화하는 것입니다. 고품질 비주얼 콘텐츠를 위해 비싼 스튜디오나 몇 시간의 수작업이 필요해서는 안 된다고 믿습니다. 당사의 AI 기반 플랫폼은 제작자, 기업 및 개발자가 비주얼 자산을 즉시 변환할 수 있도록 지원합니다. 당사는 신경망으로 가능한 것의 경계를 넓혀 사용자가 처리하는 모든 프레임이 세심하고 정밀하게 처리되도록 최선을 다하고 있습니다.",
+      "journeyTitle": "우리의 여정",
+      "journeyText": "2019년에 설립된 Clearix AI는 컴퓨터 비전 매니아 그룹의 작은 프로젝트로 시작되었습니다. 오늘날 당사는 개별 콘텐츠 제작자부터 Fortune 500대 기업에 이르기까지 전 세계 수백만 명의 사용자에게 서비스를 제공하고 있습니다. 당사의 플랫폼은 단순한 배경 제거기에서 복잡한 비디오 작업을 실시간으로 처리하는 포괄적인 AI 제품군으로 진화했습니다.",
+      "whyTitle": "왜 Clearix AI인가요?",
+      "why1_title": "픽셀 단위의 정확성",
+      "why1_text": "당사의 신경망은 수백만 개의 다양한 이미지로 학습되어 머리카락, 털 및 모션 블러와 같은 복잡한 가장자리를 타의 추종을 불허하는 정밀도로 처리합니다.",
+      "why2_title": "번개처럼 빠른 속도",
+      "why2_text": "시간은 곧 돈입니다. 최적화된 인프라를 통해 대부분의 이미지와 비디오가 4K 해상도에서도 5초 이내에 처리되도록 보장합니다.",
+      "why3_title": "개인 정보 보호 우선",
+      "why3_text": "당사는 개인 정보 보호를 중요하게 생각할 뿐만 아니라 핵심 아키텍처에 직접 구축합니다. 파일은 메모리에서 처리되고 다운로드 직후 즉시 삭제됩니다.",
+      "why4_title": "엔터프라이즈 지원",
+      "why4_text": "당사의 API는 확장을 위해 설계되었습니다. 이미지 한 장을 처리하든 백만 장을 처리하든, 당사의 시스템은 요구 사항에 맞게 동적으로 확장됩니다."
+    },
+    "blog": {
+      "title": "블로그 최신 소식",
+      "subtitle": "AI 세계의 통찰력, 튜토리얼 및 업데이트.",
+      "readMore": "전체 기사 읽기",
+      "p1_title": "AI 동영상 배경 제거의 미래",
+      "p1_desc": "새로운 신경망 아키텍처가 어떻게 가장자리의 품질이나 디테일을 손상시키지 않으면서 4K 동영상을 실시간으로 처리할 수 있게 하는지 알아보세요.",
+      "p2_title": "이커머스 전환율 향상",
+      "p2_desc": "깨끗한 제품 배경이 고객 신뢰와 매출 성장의 제1 요인인 이유. 효과를 극대화하기 위해 카탈로그를 최적화하는 방법을 알아보세요.",
+      "p3_title": "2026년 API 베스트 프랙티스",
+      "p3_desc": "높은 성능과 보안을 유지하면서 AI 처리를 기업 워크플로우에 원활하게 통합하기 위한 가이드.",
+      "p4_title": "숏폼 비디오 AI의 부상",
+      "p4_desc": "AI가 틱톡과 릴스 제작 환경을 어떻게 변화시키고 있는지, 그리고 바이럴 콘텐츠 제작이 어떻게 그 어느 때보다 쉬워졌는지 알아보세요."
+    },
+    "contact": {
+      "title": "문의하기",
+      "subtitle": "궁금한 점이 있으신가요? 저희가 도와드리겠습니다.",
+      "form_name": "성함",
+      "form_email": "이메일 주소",
+      "form_subject": "제목",
+      "form_message": "무엇을 도와드릴까요?",
+      "form_submit": "메시지 보내기",
+      "info_title": "연락처",
+      "info_email": "support@clearix.ai",
+      "info_address": "대한민국 서울특별시 강남구",
+      "info_hours": "월 - 금, 오전 9시 - 오후 6시 (KST)",
+      "sales_title": "영업팀과 상담하기",
+      "sales_text": "엔터프라이즈 솔루션이나 맞춤형 AI 모델에 관심이 있으신가요? 영업팀이 대량 처리에 적합한 계획을 세울 준비가 되어 있습니다."
+    },
+    "helpPage": {
+      "title": "고객 센터",
+      "subtitle": "자주 묻는 질문에 대한 답변과 기술 가이드를 찾아보세요.",
+      "search": "도움말 검색...",
+      "categories": {
+        "account": "계정 및 결제",
+        "account_desc": "구독, 인보이스 및 결제 수단을 관리하세요.",
+        "api": "API 및 기술",
+        "api_desc": "문서, SDK 및 기술 통합 가이드.",
+        "processing": "이미지 및 동영상 처리",
+        "processing_desc": "지원되는 형식, 해상도 제한 및 모범 사례에 대해 알아보세요.",
+        "security": "보안 및 개인 정보 보호",
+        "security_desc": "데이터 처리 방식 및 규정 준수 표준."
+      }
+    },
+    "refund": {
+      "title": "환불 정책",
+      "lastUpdated": "최종 업데이트: 2026년 5월 11일",
+      "s1_title": "1. 30일 만족 보장",
+      "s1_text": "당사는 AI의 품질을 보장합니다. 첫 구매 시 만족하지 못하실 경우, 5크레딧 미만으로 사용하셨다면 거래 후 30일 이내에 전액 환불해 드립니다.",
+      "s2_title": "2. 구독 취소",
+      "s2_text": "대시보드를 통해 언제든지 구독을 취소할 수 있습니다. 취소 시 현재 결제 주기가 끝날 때까지 해당 플랜의 기능을 계속 이용할 수 있습니다.",
+      "s3_title": "3. 예외 사항",
+      "s3_text": "서비스 약관을 위반한 계정이나 월간 크레딧의 상당 부분을 사용한 사용자에게는 일반적으로 환불이 제공되지 않습니다.",
+      "s4_title": "4. 요청 방법",
+      "s4_text": "환불을 요청하려면 계정 이메일과 거래 ID를 포함하여 support@clearix.ai으로 지원팀에 문의하십시오."
+    },
+    "status": {
+      "title": "플랫폼 상태",
+      "subtitle": "시스템 및 서비스에 대한 실시간 업데이트입니다.",
+      "operational": "정상 작동 중",
+      "degraded": "성능 저하",
+      "down": "서비스 중단",
+      "systems": {
+        "api": "API 및 핵심 프로세싱",
+        "web": "웹 대시보드",
+        "gpu": "GPU 클러스터 (렌더링)",
+        "cdn": "콘텐츠 전송 네트워크 (CDN)"
+      },
+      "incidents": "최근 인시던트",
+      "noIncidents": "지난 30일 동안 보고된 인시던트가 없습니다."
+    },
+    "generalTerms": {
+      "title": "일반 이용 약관",
+      "lastUpdated": "최종 업데이트: 2026년 5월 11일",
+      "intro": "본 일반 이용 약관은 Clearix AI 플랫폼의 모든 사용자 및 방문자에게 적용됩니다.",
+      "s1_title": "1. 사용자 책임",
+      "s1_text": "사용자는 업로드하는 이미지와 동영상을 처리할 법적 권리가 있는지 확인할 책임이 있습니다. 불법, 명예 훼손 또는 유해한 콘텐츠를 위해 플랫폼을 사용하는 것은 엄격히 금지됩니다.",
+      "s2_title": "2. 지적 재산권",
+      "s2_text": "귀하는 원본 콘텐츠에 대한 모든 권리를 보유합니다. Clearix AI는 귀하가 처리하는 파일에 대한 소유권을 주장하지 않습니다. 당사는 처리에 필요한 임시 사본만 보관합니다.",
+      "s3_title": "3. 플랫폼 가용성",
+      "s3_text": "당사는 99.9%의 업타임을 위해 노력하지만 무중단 서비스를 보장하지는 않습니다. 유지 관리 및 업데이트로 인해 일시적으로 가동 중지 시간이 발생할 수 있습니다.",
+      "s4_title": "4. 약관 변경",
+      "s4_text": "당사는 언제든지 본 약관을 수정할 권리를 보유합니다. 중대한 변경 사항은 이메일 또는 플랫폼 공지사항을 통해 안내해 드립니다."
+    }
+  }
+}
